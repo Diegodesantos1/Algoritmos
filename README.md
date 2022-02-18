@@ -18,3 +18,14 @@ Este es el link del [Repositorio](https://github.com/Diegodesantos1/Algoritmos)
 
 *Y por último establecer las postcondiciones y el resultado del propio algoritmo*
 
+## Ejercicio 8: Ejercicio 8: Porcentajes, IVA e inversiones
+
+## Ejercicio 9:  Media aritmética ponderada
+
+## Ejercicio 10: Área del triángulo
+
+## Ejercicio 11: Salario y horas extra
+
+## Ejercicio 12: Cuenta de depósito
+
+
