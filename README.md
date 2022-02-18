@@ -17,3 +17,4 @@ Este es el link del [Repositorio](https://github.com/Diegodesantos1/Algoritmos)
 *Cuarto, realizar el propio algoritmo.*
 
 *Y por último establecer las postcondiciones y el resultado del propio algoritmo*
+
